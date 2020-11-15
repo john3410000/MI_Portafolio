@@ -1,0 +1,13 @@
+font-family: 'Open Sans', sans-serif;
+font-family: 'Oswald', sans-serif;
+font-family: 'Raleway', sans-serif;
+
+body {
+    /*padding-top: 56px;*/
+    /*padding-bottom: 56px;*/
+}
+@media screen and (max-width:576px){
+    .container {
+        width: 100%;
+    }
+}
